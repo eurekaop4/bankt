@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bankt/static/css/main.da3aef44.css",
-    "main.js": "/bankt/static/js/main.a8e76e27.js",
+    "main.css": "/bankt/static/css/main.16f52880.css",
+    "main.js": "/bankt/static/js/main.f1d82f42.js",
     "static/media/logo.png": "/bankt/static/media/logo.7ed42caf1761f7568a18.png",
     "index.html": "/bankt/index.html",
-    "main.da3aef44.css.map": "/bankt/static/css/main.da3aef44.css.map",
-    "main.a8e76e27.js.map": "/bankt/static/js/main.a8e76e27.js.map"
+    "main.16f52880.css.map": "/bankt/static/css/main.16f52880.css.map",
+    "main.f1d82f42.js.map": "/bankt/static/js/main.f1d82f42.js.map"
   },
   "entrypoints": [
-    "static/css/main.da3aef44.css",
-    "static/js/main.a8e76e27.js"
+    "static/css/main.16f52880.css",
+    "static/js/main.f1d82f42.js"
   ]
 }
