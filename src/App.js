@@ -10,9 +10,7 @@ function App() {
 
           <h1>Hello, World.</h1>
           <h2>BankT</h2>
-        
-          <h2>Theeranai2</h2>
-          
+                  
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
